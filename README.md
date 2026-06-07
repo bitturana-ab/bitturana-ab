@@ -1,11 +1,13 @@
 - 👋 Hi, I’m Bittu Rana
-- 🌱 Using MERN Stack for WebDev. RN for App Dev
+- 🌱 I use ReactJs for UI && SpringBoot for Backend Server.
 - 💞️ Interested in Learning new technology.
 - 💞️ Skills: Proficiency in programming languages like Java,JavaScript, a strong understanding of data structures and algorithms, experience with version control systems like Git, and the ability to debug and problem-solve efficiently.
 - 📫 How to reach me || https://bitturana.vercel.app/ || Email: bitturanajd@gmail.com
+
 - projects:
 - 1. https://www.acefx.in/
   2. https://yotukka.com/
+   
 - ⚡ Fun projects:[
    1. Kutty Story By Vijay Anna:- https://blikeajd.vercel.app/
    2. Manage your todos:- https://ab-todos.vercel.app
